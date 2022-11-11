@@ -8,7 +8,7 @@
 
 ### Connect with me :
 
-[<img align="left" alt="linkedin logo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="linkedin logo" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 
 <br />
 <br />
