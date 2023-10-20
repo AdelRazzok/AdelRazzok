@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C and Rust
 - 👯 I’m looking to collaborate with other developers on open source projects 
 - 💬 Ask me about freelancing, web development, sport...
-- ⚡ Fun fact : my avatar looks like Clark Kent !
+- ⚡ Fun fact : my avatar looks like Clark Kent!
 
 ### Connect with me :
 
