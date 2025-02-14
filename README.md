@@ -20,7 +20,7 @@
 <img align="left" alt="HTML5 Logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS3 Logo" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="Sass Logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
-<img align="left" alt="Node.js Logo" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+<img align="left" alt="Node.js Logo" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
 <img align="left" alt="Adonis Logo" width="35px" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4" />
 <img align="left" alt="PHP Logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
 <img align="left" alt="Symfony Logo" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png" />
