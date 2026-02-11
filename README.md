@@ -16,7 +16,7 @@
 
 <img align="left" alt="JavaScript Logo" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="TypeScript Logo" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/960px-Typescript.svg.png" />
-<img align="left" alt="React Logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+<img align="left" alt="React Logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/960px-React_Logo_SVG.svg.png" />
 <img align="left" alt="HTML5 Logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS3 Logo" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="Sass Logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
